@@ -1,29 +1,23 @@
-// fetch('../json/dataset.json')
-//     .then(response => response.json())
-//     .then(data => console.table(data.))
-//     .catch((err) => {
-//         console.log(err)
-//     });
 
-fetch("../json/dataset.json")
+fetch("./json/dataset.json")
   .then(response => response.json())
   .then(data => {
-
-    data.forEach(obj => {
-        console.log(obj['Kaas is ook een zoogdier?'])
-
-        let resultaat = removeQuestionMarks(obj['Kaas is ook een zoogdier?']);
-
-        console.log(resultaat);
+    data.forEach(object => {
+        let result = removeQuestionMarks(object['Kaas is ook een zoogdier?']);
+        console.log(result);
     })
-    
-    // console.log(typeof json)
-
+    // testFunction(data);
   });
 
 
-function removeQuestionMarks(string) {
-    let stringify = String(string);
-    return stringify.replaceAll('?', '');
+function removeQuestionMarks(data) {
+    let stringify = String(data);
+    return stringify.replaceAll('.', '').replaceAll('?', '').replaceAll(' ', '-').toLowerCase();;
 }
+
+// function testFunction(data) {
+//     // const text = document.getElementById('demo');
+//     console.log()
+//     // text.innerHTML = data[0];
+// }
 
