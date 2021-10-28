@@ -1,18 +1,16 @@
 
-fetch("./json/dataset.json")
+fetch("./dataset/dataset.json")
   .then(response => response.json())
   .then(data => {
     data.forEach(object => {
-        let result = removeQuestionMarks(object['Kaas is ook een zoogdier?']);
+        const result = removeQuestionMarks(object['Kaas is ook een zoogdier?']);
         console.log(result);
     })
-    // testFunction(data);
   });
 
-
 function removeQuestionMarks(data) {
-    let stringify = String(data);
-    return stringify.replaceAll('.', '').replaceAll('?', '').replaceAll(' ', '-').toLowerCase();;
+    const stringify = String(data);
+    return stringify.replaceAll('.', '').replaceAll('?', '').toLowerCase();;
 }
 
 // function testFunction(data) {
