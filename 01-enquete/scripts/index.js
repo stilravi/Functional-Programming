@@ -12,25 +12,25 @@ fetch("./dataset/dataset.json")
   
 });
 
-function changeToString(data) {
+const changeToString = (data) => {
   let stringify = String(data);
   return stringify;
 }
 
-function removeQuestionMarks(str) {
+const removeQuestionMarks = (str) => {
   return str.replaceAll('?', '');
 }
 
-function removeDots(str) {
+const removeDots = (str) => {
   return str.replace(/\.+$/, "");
   // https://stackoverflow.com/questions/20925157/remove-dot-sign-from-the-end-of-the-string
 }
 
-function removeCapitals(str) {
+const removeCapitals = (str) => {
   return str.toLowerCase();
 }
 
-function printResults(str) {
+const printResults = (str) => {
   const list = document.getElementById("list");
   list.innerHTML += `<li>${str}</li>`;
 }
