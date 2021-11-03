@@ -11,6 +11,15 @@ Schrijf een programma (stuk code) die een gegeven Dataset en een Rest API ontlee
 gewerkt kan worden. Hierbij is het de bedoeling dat de Functional Programming principles worden toegepast en dat het proces
 wordt bijgehouden in de documentatie op Github.
 
+### Enquete Dataset
+In de eerste week (25-10-2021 t/m 29-10-2021) heb ik Dataset gebruikt die door de docenten aangeleverd is. Deze Dataset is
+ontstaan door een Enquete die alle studenten van de Tech Track ingevuld hebben. In
+
+### Rest API
+
+## Data
+D
+
 ## Instalatie
 
 ## Bronnen
