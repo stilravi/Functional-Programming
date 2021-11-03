@@ -13,7 +13,7 @@ wordt bijgehouden in de documentatie op Github.
 
 In de eerste week (_25-10-2021 t/m 29-10-2021_) is het de bedoeling dat er gebruik wordt gemaakt van een aangeleverde Dataset.
 Deze Dataset is voortgekomen uit een Enquete die alle studenten van de Tech Track hebben ingevuld. In de tweede week 
-(_01-11-2021 t/m 05-11-2021_) moet er een Rest API gekozen worden door de student en moet deze net als de Dataset uit week 1 ontleden en opgeschoond worden.
+(_01-11-2021 t/m 05-11-2021_) moet er een Rest API gekozen worden door de student en moet deze net als de Dataset uit week 1 ontleed en opgeschoond worden.
 
 ## Data
 
@@ -28,6 +28,10 @@ bijvoorbeeld hierbij aan antwoorden met vraagtekens, punten en hoofdletters. Op 
 ### Rest API
 
 ## Instalatie
+Om dit project binnen te halen kan deze Repository gecloned worden naar je eigen Device.
+```git
+git clone https://github.com/stilravi/Functional-Programming.git
+```
 
 ## Bronnen
 
