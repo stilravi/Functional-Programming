@@ -20,7 +20,9 @@ Deze Dataset is voortgekomen uit een Enquete die alle studenten van de Tech Trac
 ### Enquete Dataset
 Deze Data is voortgekomen uit een online Enquete die is ingevuld door alle Tech Track studenten. In deze Enquete zijn 14 random 
 vragen gesteld aan de studenten. Ik ben mij vervolgens gaan richten op het ontleden en opschonen van één vraag uit de aangeleverde Dataset. Dit is de volgende vraag:
-![Intro Image](https://github.com/stilravi/Functional-Programming/blob/main/_wiki/00-vraag.png)
+```json
+"Kaas is ook een zoogdier?": "Kan ik nog switchen naar de Visual Track?",
+```
 
 ### Rest API
 
