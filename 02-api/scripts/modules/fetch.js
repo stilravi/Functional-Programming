@@ -8,7 +8,7 @@ function fetchData() {
             showResults(data) // Voer de showResults functie uit en stuur een parameter mee
         })
         .catch((err) => {
-            console.log(err) // Console log de error als deze er is
+            console.log(err) // Console log de Error als deze er is
         })
 }
 
