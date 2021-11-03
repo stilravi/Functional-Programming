@@ -40,6 +40,6 @@ Tijdens dit project heb ik meerdere bronnen gebruikt die mij goed op weg geholpe
 * Ik heb een video bekeken die mij goed heeft geholpen met het **Fetchen en Renderen** van een API. Dit is de volgende video: [Fetch API & Rendering Data with JavaScript video](https://www.youtube.com/watch?v=FN_ffvw_ksE&t=1138s&ab_channel=CodeBushi)
 * [Robert](https://github.com/roberrrt-s) heeft mij geholpen met het aanmaken van JS Modules en het exporteren en importeren hiervan.
 * Ter inspiratie voor het inrichten van de Github en Wiki heb ik gekeken naar de Github van [Deanne](https://github.com/deannabosschert)
-* Om ervoor te zorgen dat elke "." aan het eind van een zin werd weggehaald heb ik gekeken naar [deze code](https://stackoverflow.com/questions/20925157/remove-dot-sign-from-the-end-of-the-string).
+* Om ervoor te zorgen dat elke punt aan het eind van een zin uit de API werd vervangen heb ik gekeken naar [deze code](https://stackoverflow.com/questions/20925157/remove-dot-sign-from-the-end-of-the-string).
 
 ## License
