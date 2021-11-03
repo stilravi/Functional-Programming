@@ -10,3 +10,9 @@
 Schrijf een programma (stuk code) die een gegeven Dataset en een Rest API ontleed en opschoont waarna er vervolgens
 gewerkt kan worden. Hierbij is het de bedoeling dat de Functional Programming principles worden toegepast en dat het proces
 wordt bijgehouden in de documentatie op Github.
+
+## Instalatie
+
+## Bronnen
+
+## License
