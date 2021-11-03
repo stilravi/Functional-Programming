@@ -37,6 +37,6 @@ Vervolgens kun je een lokale server opzetten waarop het script gedraaid kan word
 
 ## Bronnen
 Tijdens dit project heb ik meerdere bronnen gebruikt die mij goed op weg geholpen hebben.
-* [Fetch API & Rendering Data with JavaScript video](https://www.youtube.com/watch?v=FN_ffvw_ksE&t=1138s&ab_channel=CodeBushi)
+* Ik heb een video bekeken die mij goed heeft geholpen met het Fetchen en Renderen van een API. Dit is de volgende video: [Fetch API & Rendering Data with JavaScript video](https://www.youtube.com/watch?v=FN_ffvw_ksE&t=1138s&ab_channel=CodeBushi)
 
 ## License
