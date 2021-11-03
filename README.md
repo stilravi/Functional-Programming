@@ -41,6 +41,7 @@ Tijdens dit project heb ik meerdere bronnen gebruikt die mij goed op weg geholpe
 * [Robert](https://github.com/roberrrt-s) heeft mij geholpen om een bepaalde vraag uit de Dataset te halen en de antwoorden hiervan in een string te stoppen. Ook heeft Robert mij geholpen met het aanmaken van JS Modules en het exporteren en importeren hiervan.
 * Ter inspiratie voor het inrichten van de Github en Wiki heb ik gekeken naar de Github van [Deanne](https://github.com/deannabosschert).
 * Om ervoor te zorgen dat elke punt aan het eind van een zin uit de API werd vervangen heb ik gekeken naar [deze code](https://stackoverflow.com/questions/20925157/remove-dot-sign-from-the-end-of-the-string).
+* Voor de data van de API opdracht heb ik gebruik gemaakt van de [Punk API](https://punkapi.com/documentation/v2).
 
 ## License
 
