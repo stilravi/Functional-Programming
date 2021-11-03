@@ -23,6 +23,8 @@ vragen gesteld aan de studenten. Ik ben mij vervolgens gaan richten op het ontle
 ```json
 "Kaas is ook een zoogdier?": "Antwoord",
 ```
+Op deze vraag zijn meerdere antwoorden gegeven die eerst opgeschoond moeten worden voordat er mee gewerkt kan worden. Denk 
+bijvoorbeeld hierbij aan antwoorden met vraagtekens, punten en hoofdletters. Op de [Dataset Analyse](https://github.com/stilravi/Functional-Programming/wiki/Data-Enquete) in de Wiki is meer te vinden over wat deze Data precies inhoud en wat er veranderd moet worden.
 
 ### Rest API
 
