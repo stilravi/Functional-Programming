@@ -29,7 +29,7 @@ bijvoorbeeld hierbij aan antwoorden met vraagtekens, punten en hoofdletters. Op 
 
 ## Instalatie
 Om dit project binnen te halen kan deze Repository gecloned worden naar je eigen Device.
-```git
+```shell
 $git clone https://github.com/stilravi/Functional-Programming.git
 ```
 
