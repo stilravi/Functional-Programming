@@ -31,8 +31,10 @@ const removeCapitals = (str) => {
 }
 
 const printResults = (str) => {
-  const list = document.getElementById("list");
-  list.innerHTML += `<li>${str}</li>`;
+  const ul = document.getElementById("list");
+  let list = document.createElement('li');
+  list.innerHTML = str;
+  ul.appendChild(list);
 }
 
 
@@ -45,7 +47,7 @@ const printResults = (str) => {
 
 
 
-
+// Staat ook in de github
 
 // fetch("./dataset/dataset.json")
 //   .then(response => response.json())
