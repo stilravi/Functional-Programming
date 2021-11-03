@@ -1,7 +1,7 @@
 # Functional-Programming
 Dit is de Readme van Functional Programming van 25 oktober 2021 t/m 5 november 2021.
 
-Ravi Stil   |   500822551   |   04-11-2021   |   Functional Programming   |   Information Design: Tech Track
+> Ravi Stil   |   500822551   |   04-11-2021   |   Functional Programming   |   Information Design: Tech Track
 
 <br/>
 
