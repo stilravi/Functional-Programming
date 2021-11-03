@@ -33,7 +33,7 @@ Om dit project binnen te halen kan deze Repository gecloned worden naar je eigen
 ```shell
 $git clone https://github.com/stilravi/Functional-Programming.git
 ```
-Vervolgens kun je een lokale server opzetten waarop het script gedraaid kan worden. In het mapje "_01-enquete_" is het script te vinden van het opschonen van de Enquete Dataset en in het mapje "_02-api_" is het script van de Rest API te vinden.
+Vervolgens kun je een *lokale server* opzetten waarop het script gedraaid kan worden. In het mapje "_01-enquete_" is het script te vinden van het opschonen van de Enquete Dataset en in het mapje "_02-api_" is het script van de Rest API te vinden.
 
 ## Bronnen
 
