@@ -44,6 +44,6 @@ Tijdens dit project heb ik meerdere bronnen gebruikt die mij goed op weg geholpe
 
 ## License
 
-Auteur: Ravi Stil
+Auteur: Ravi Stil - 2021
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
