@@ -11,9 +11,9 @@ Schrijf een programma (stuk code) die een aangeleverde Dataset en een Rest API o
 gewerkt kan worden. Hierbij is het de bedoeling dat de Functional Programming principles worden toegepast en dat het proces
 wordt bijgehouden in de documentatie op Github.
 
-In de eerste week (25-10-2021 t/m 29-10-2021) is het de bedoeling dat er gebruik wordt gemaakt van een aangeleverde Dataset.
+In de eerste week (_25-10-2021 t/m 29-10-2021_) is het de bedoeling dat er gebruik wordt gemaakt van een aangeleverde Dataset.
 Deze Dataset is voortgekomen uit een Enquete die alle studenten van de Tech Track hebben ingevuld. In de tweede week 
-(01-11-2021 t/m 05-11-2021) moet er een Rest API gekozen worden door de student en moet deze net als de Dataset uit week 1 ontleden en opgeschoond worden.
+(_01-11-2021 t/m 05-11-2021_) moet er een Rest API gekozen worden door de student en moet deze net als de Dataset uit week 1 ontleden en opgeschoond worden.
 
 ## Data
 
