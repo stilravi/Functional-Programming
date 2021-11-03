@@ -43,3 +43,7 @@ Tijdens dit project heb ik meerdere bronnen gebruikt die mij goed op weg geholpe
 * Om ervoor te zorgen dat elke punt aan het eind van een zin uit de API werd vervangen heb ik gekeken naar [deze code](https://stackoverflow.com/questions/20925157/remove-dot-sign-from-the-end-of-the-string).
 
 ## License
+
+Auteur: Ravi Stil
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
