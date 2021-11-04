@@ -1,8 +1,8 @@
 import removeDots from './cleaning.js' // Importeer removeDots functie van cleaning.js
 
 function showResults(data) {
-    let html = data.map(beers => { // 
-        let beerTagline = removeDots(beers.tagline) // Maakt een let aan voor de beers.tagline. Voer vervolgens de functie removeDots uit.
+    const html = data.map(beers => { // 
+        const beerTagline = removeDots(beers.tagline) // Maakt een const aan voor de beers.tagline. Voer vervolgens de functie removeDots uit.
         // Return een HTML <div> met daarin een img van het biertje, de naam van het biertje en de tagline (zonder punten).
         return `
         <li>
