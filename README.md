@@ -34,8 +34,14 @@ De Data die ik ga opschonen is voortgekomen uit een online Enquete die is ingevu
 Op deze vraag zijn meerdere antwoorden gegeven die eerst opgeschoond moeten worden voordat er mee gewerkt kan worden. Denk 
 bijvoorbeeld hierbij aan antwoorden met vraagtekens, punten en hoofdletters. Op de [Dataset Analyse](https://github.com/stilravi/Functional-Programming/wiki/Data-Analyse) in de Wiki is meer te vinden over wat deze Data precies inhoud en wat er veranderd moet worden.
 
+De Live Demo is te vinden op de volgende link:
+[Live Demo - Enquete Dataset](https://stilravi.github.io/Functional-Programming/01-enquete/)
+
 ### Rest API
 Ook moest er naast de Enquete Dataset data ingeladen en opgeschoond worden die uit een Rest API kwam. Deze API mocht ik zelf uitkiezen en ik heb gekozen voor de [Punk API](https://punkapi.com/documentation/v2). Met Deze API kun je veel informatie over een groot aantal biertjes vinden en inladen in je website. Deze Dataset is al redelijk schoon dus hoeft er niet veel opgeschoond te worden. Meer informatie over wat ik precies opgeschoond heb en hoe ik deze API gebruikt heb is te vinden in de [Wiki](https://github.com/stilravi/Functional-Programming/wiki).
+
+De Live Demo is te vinden op de volgende link:
+[Live Demo - Rest API](https://stilravi.github.io/Functional-Programming/02-api/)
 
 ## Instalatie
 Om dit project binnen te halen kan deze Repository gecloned worden naar je eigen Device.
