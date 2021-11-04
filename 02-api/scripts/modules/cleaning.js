@@ -1,5 +1,5 @@
 function removeDots(str) {
-    return str.replace(/\.+$/, ""); // Vervang alle punten (aan het eind van een string) en stuur de string (str) terug.
+    return str.replace(/\.+$/, "") // Vervang alle punten (aan het eind van een string) en stuur de string (str) terug.
   // https://stackoverflow.com/questions/20925157/remove-dot-sign-from-the-end-of-the-string
 }
 

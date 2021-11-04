@@ -1,5 +1,5 @@
 import api from './api.js' // Importeer api const uit api.js
-import showResults from './render.js'; // Importeer showResult functie uit render.js
+import showResults from './render.js' // Importeer showResult functie uit render.js
 
 function fetchData() {
     fetch(`${api.apiUrl}/${api.apiTopic}`) // Vult hier de API url in + het API topic
