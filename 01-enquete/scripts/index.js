@@ -31,8 +31,8 @@ function removeCapitals(str) {
 
 function printResults(str) {
   const ul = document.getElementById("list"); // Maak een const aan genaamd ul van het element met id "list"
-  let list = document.createElement('li'); // 
-  list.innerHTML = str;
-  ul.appendChild(list);
+  let list = document.createElement('li'); // Maak een let aan genaamd list en creëer een <li> element
+  list.innerHTML = str; // Het list item is de string (str) wat in HTML uiteindelijk wordt ingeladen 
+  ul.appendChild(list); // Laat vervolgens in de ul het list item in
 }
 
