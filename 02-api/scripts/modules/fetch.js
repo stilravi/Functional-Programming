@@ -5,6 +5,7 @@ function fetchData() {
     fetch(`${api.apiUrl}/${api.apiTopic}`) // Vult hier de API url in + het API topic
         .then(response => response.json())
         .then(data => {
+            console.log(data)
             showResults(data) // Voer de showResults functie uit en stuur een parameter mee
         })
         .catch((err) => {
