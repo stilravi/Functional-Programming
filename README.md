@@ -6,6 +6,15 @@
 
 ![Intro Image](https://github.com/stilravi/Functional-Programming/blob/main/_wiki/00-overview.png)
 
+## Inhoudsopgave
+* [Opdracht](#Opdracht)
+* [Data](#Data)
+    * [Enquete Dataset](#Enquete-Dataset])
+    * [Rest API](#Rest-API])
+* [Instalatie](#Instalatie)
+* [Bronnen](#Bronnen)
+* [License](#License)
+
 ## Opdracht
 Schrijf een programma (stuk code) die een aangeleverde Dataset en een Rest API ontleed en opschoont waarna er vervolgens
 gewerkt kan worden. Hierbij is het de bedoeling dat de Functional Programming principles worden toegepast en dat het proces
